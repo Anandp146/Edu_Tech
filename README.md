@@ -1,6 +1,5 @@
-# StudyNotion Edutech Project
-#
-<img src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/frontend/src/assets/Logo/Logo-Full-Light.png' />
+
+#STUDY-NOTION 
 
 # Project Description 📝
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
@@ -8,7 +7,6 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 
 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home1.png' />
 
 
 
@@ -20,11 +18,9 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 | [StudyNotion Aim]        | 📚 Overview of StudyNotion's goals            |
 | [Tech Stack]             | 💻🔧 Technologies used in the project         |
 | [System Architecture]    | 🏰 Overview of the system architecture      |
-| [Architecture Diagram]   | 🏗️ Diagram illustrating the architecture   |
-| [Schema]                  | 🗂 Explanation of data schemas used          |
 | [React Hooks]            | 🎣 Overview of React Hooks utilized          |
 | [React Library]         | ⚛️📚 Overview of React Libraries used        |
-| [Screen Preview]         | 🖥️ Screen Preview        |
+
 
 
 
@@ -38,29 +34,28 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <br/>
 <br/>
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
 
 
 ## Tech Stack 💻🔧 
 
 ## Frontend 🎨 : 
-<code title="React.js"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
-<code title="Vite"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
-<code title="Redux.js"><img height="35" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
-<code title="css"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
-<code title="Tailwind css"><img height="35" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
+<code title="React.js"><img height="40" src="https://miro.medium.com/v2/resize:fit:1200/1*WA_9JsyqFkge2HwYKcdJQw.png"></code>
+<code title="Vite"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"></code>
+<code title="Redux.js"><img height="35" src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png"></code>
+<code title="css"><img height="40" src="https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg"></code>
+<code title="Tailwind css"><img height="35" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png"></code>
 
 
 ## Backend ⚙️ :
-<code title="Nodejs"><img height="50" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
-<code title="Express"><img height="70" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
+<code title="Nodejs"><img height="50" src="https://www.step2gen.com/WebsiteAssets/assets/images/nodejs.svg"></code>
+<code title="Express"><img height="70" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"></code>
 
 
 ## Database 🛢️ :
-<code title="Mongodb"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
+<code title="Mongodb"><img height="40" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"></code>
 
 ## Cloudinary Integration ☁️
-<code title="Mongodb"><img height="40" src="https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
+<code title="Mongodb"><img height="40" src="https://marketplace.commercetools.com/img/containers/assets/cloudinary_logo_blue_769x537.png/8e29c2855e06be62262107337a1818ec.png"></code>
 
 <hr/>
 
@@ -136,12 +131,6 @@ The back-end of StudyNotion uses several data models and database schemas to man
 ### Database 🛢️
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
-## Schema 📋
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Schema.png' />
-
-<hr/>
-
-
 ## React Hooks 🎣
 
 Utilized several React hooks for efficient state management and dynamic behavior:
@@ -175,11 +164,6 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 
 
-##  🖥️ Screen Preview :
-
-# Random Home Page Background 🏠 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home3.png' />
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home4.png' />
 
 
 
